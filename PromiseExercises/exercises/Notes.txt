@@ -1,0 +1,8 @@
+https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit
+
+
+Exercise 1, d)
+ - How do you create a REST endpoint in JS?
+
+ Exercise 2
+ - How do you avoid making a Callback Hell?
