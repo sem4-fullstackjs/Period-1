@@ -1,2 +1,0 @@
-https://github.com/sem4-fullstack-javascript/Hand-in-Period-1/tree/master/TypeScriptExercises
-
